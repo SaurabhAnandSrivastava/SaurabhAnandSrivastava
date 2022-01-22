@@ -2,7 +2,7 @@
 ![mqdefault](https://user-images.githubusercontent.com/17967553/150638922-5df4e778-de8a-4e93-b5e2-f02e2a943320.jpg)
 
 
-![](https://komarev.com/ghpvc/?username=SaurabhAnandSrivastava)
+![](https://komarev.com/ghpvc/?username=SaurabhAnandSrivastava&color=blue) ![](https://img.shields.io/badge/Age-29-blue) ![](https://img.shields.io/badge/Focus-Swift,objc-blue) ![](https://img.shields.io/badge/Lives-India-blue)
 
 ### Hi there 👋
 
@@ -24,7 +24,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaurabhAnandSrivastava)
 
-![](https://github-profile-trophy.vercel.app/?username=SaurabhAnandSrivastava&theme=dracula&no-bg=true&row=1)
+![](https://github-profile-trophy.vercel.app/?username=SaurabhAnandSrivastava&theme=dracula&no-bg=true&row=1)![](https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen)
 
 ### Connect with me 🤝
 - ![facebook](https://user-images.githubusercontent.com/17967553/150634248-83017cda-2ab5-4bbe-8768-43057b4661e9.png) [Facebook](https://www.facebook.com/saurabhanandsri)
