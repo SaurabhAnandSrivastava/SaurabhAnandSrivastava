@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SaurabhAnandSrivastava/SaurabhAnandSrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About Me 🙇🏻
 ### I'm ios developer and a tech enthusiast! 👨🏻‍💻
@@ -21,4 +19,4 @@
 ![objective-c](https://user-images.githubusercontent.com/17967553/150635107-f0f79cca-6388-4245-9227-ed7f874c17b2.png)![1*S4__g3knEbuuE6qHyWIbNQ](https://user-images.githubusercontent.com/17967553/150635121-81803db6-49e0-4080-aca4-bf1d38d3d0ba.png)
 ![xcode](https://user-images.githubusercontent.com/17967553/150635133-66622f75-3e80-4f2f-9c49-848b353d4c08.png)![android-studio-logo](https://user-images.githubusercontent.com/17967553/150635170-27cd767b-c88e-44f6-8c89-204b32d2585f.png) ![eclipse_ide_logo](https://user-images.githubusercontent.com/17967553/150635174-5de41d39-5efd-4f3d-a098-fee161a7814f.png) <img width="30" alt="logo-figma" src="https://user-images.githubusercontent.com/17967553/150635182-08032f8b-fdce-4221-b525-07435e199596.png">![Unknown](https://user-images.githubusercontent.com/17967553/150635190-f0753df9-3a48-4b93-9347-43255913aa8c.png) 
 
--->
+
