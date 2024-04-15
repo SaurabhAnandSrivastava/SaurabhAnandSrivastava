@@ -2,14 +2,14 @@
 ![mqdefault](https://user-images.githubusercontent.com/17967553/150638922-5df4e778-de8a-4e93-b5e2-f02e2a943320.jpg)
 
 
-![](https://komarev.com/ghpvc/?username=SaurabhAnandSrivastava&color=blue) ![](https://img.shields.io/badge/Age-29-blue) ![](https://img.shields.io/badge/Focus-Swift,objc-blue) ![](https://img.shields.io/badge/Lives-India-blue) ![](https://img.shields.io/badge/Languages-English%20%26%20Hindi-blue)
+![](https://komarev.com/ghpvc/?username=SaurabhAnandSrivastava&color=blue) ![](https://img.shields.io/badge/Age-30-blue) ![](https://img.shields.io/badge/Focus-Swift,objc,ReactNative-blue) ![](https://img.shields.io/badge/Lives-India-blue) ![](https://img.shields.io/badge/Languages-English%20%26%20Hindi-blue)
 
 ### Hi there 👋
 
 
 ## About Me 🙇🏻
 ### I'm ios developer and a tech enthusiast! 👨🏻‍💻
-- 💁 I am a senior ios developer with 9 years experience 
+- 💁 I am a senior ios developer with 10 years experience 
 - 🧑‍🎓 I'm a Computer Science graduate 
 - 👨‍🍳 One of the founding member of [Synchsoft HQ](https://synchsofthq.com)
 - 👦 Pronouns : He/Him
