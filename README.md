@@ -8,8 +8,8 @@
 
 
 ## About Me 🙇🏻
-### I'm ios developer and a tech enthusiast! 👨🏻‍💻
-- 💁 I am a senior ios developer with 10 years experience 
+### I'm ios and react-native developer and a tech enthusiast! 👨🏻‍💻
+- 💁 I am a senior ios(swift,objective-c) and react-native developer with 10 years experience 
 - 🧑‍🎓 I'm a Computer Science graduate 
 - 👨‍🍳 One of the founding member of [Synchsoft HQ](https://synchsofthq.com)
 - 👦 Pronouns : He/Him
